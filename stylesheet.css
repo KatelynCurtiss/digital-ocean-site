@@ -42,14 +42,14 @@ header a {
    margin: 100px;
    float: left;
 
-   margin-top: 30px;
+   /* margin-top: 30px; */
 }
 
 main {
    height: 600px;
    margin: 100px;
 
-   margin-top: 30px;
+   /* margin-top: 30px; */
 }
 
 main h1 {
